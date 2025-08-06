@@ -1,6 +1,6 @@
 # CI/CD Practice Project with Tekton and Kubernetes
 
-[![Build Status](https://github.com/ongunakaycom/ibm-developer-skills-network-devops-capstone/actions/workflows/<workflow-file>.yml/badge.svg)](https://github.com/ongunakaycom/ibm-developer-skills-network-devops-capstone/actions/workflows/<workflow-file>.yml)
+[![Build Status](https://github.com/ongunakaycom/ibm-developer-skills-network-devops-capstone/actions/workflows/ci-build.yaml/badge.svg)](https://github.com/ongunakaycom/ibm-developer-skills-network-devops-capstone/actions/workflows/ci-build.yaml)
 
 
 This repository is a complete CI/CD practice project that demonstrates modern DevOps workflows using Tekton Pipelines, Kubernetes, Docker, and GitHub Actions. It includes automation for testing, building, and deploying a Flask application in a containerized environment.
